@@ -4,7 +4,7 @@
         "description": "Kitchen Sink App of restify",
         "main": "main.js",
         "dependencies": {
-                "assert-plus": "0.1.2",
+                "assert-plus": "0.2.0",
                 "bunyan": "0.21.1",
                 "posix-getopt": "1.0.0",
                 "restify": "git://github.com/mcavage/node-restify.git#master"
